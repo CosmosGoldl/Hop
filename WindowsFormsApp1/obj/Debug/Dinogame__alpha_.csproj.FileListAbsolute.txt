@@ -1,0 +1,80 @@
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.Form1.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.exe.config
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.exe
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.pdb
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.exe
+C:\Users\Administrator\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.exe.config
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.AssemblyReference.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.Form1.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.Properties.Resources.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.GenerateResource.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.pdb
+C:\Users\YEN NHI\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.exe.config
+C:\Users\YEN NHI\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.exe
+C:\Users\YEN NHI\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.pdb
+C:\Users\YEN NHI\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.AssemblyReference.cache
+C:\Users\YEN NHI\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.Form1.resources
+C:\Users\YEN NHI\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.Properties.Resources.resources
+C:\Users\YEN NHI\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.GenerateResource.cache
+C:\Users\YEN NHI\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.CoreCompileInputs.cache
+C:\Users\YEN NHI\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.exe
+C:\Users\YEN NHI\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.pdb
+D:\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.exe.config
+D:\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.exe
+D:\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.pdb
+D:\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.AssemblyReference.cache
+D:\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.Form1.resources
+D:\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.Properties.Resources.resources
+D:\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.GenerateResource.cache
+D:\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.CoreCompileInputs.cache
+D:\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.exe
+D:\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.pdb
+C:\Users\YEN NHI\Downloads\doi nen nha\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.exe.config
+C:\Users\YEN NHI\Downloads\doi nen nha\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.exe
+C:\Users\YEN NHI\Downloads\doi nen nha\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.pdb
+C:\Users\YEN NHI\Downloads\doi nen nha\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.AssemblyReference.cache
+C:\Users\YEN NHI\Downloads\doi nen nha\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.Form1.resources
+C:\Users\YEN NHI\Downloads\doi nen nha\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.Properties.Resources.resources
+C:\Users\YEN NHI\Downloads\doi nen nha\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.GenerateResource.cache
+C:\Users\YEN NHI\Downloads\doi nen nha\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.CoreCompileInputs.cache
+C:\Users\YEN NHI\Downloads\doi nen nha\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.exe
+C:\Users\YEN NHI\Downloads\doi nen nha\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.pdb
+C:\Users\YEN NHI\Downloads\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.exe.config
+C:\Users\YEN NHI\Downloads\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.exe
+C:\Users\YEN NHI\Downloads\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.pdb
+C:\Users\YEN NHI\Downloads\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.AssemblyReference.cache
+C:\Users\YEN NHI\Downloads\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.Form1.resources
+C:\Users\YEN NHI\Downloads\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.Properties.Resources.resources
+C:\Users\YEN NHI\Downloads\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.GenerateResource.cache
+C:\Users\YEN NHI\Downloads\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.CoreCompileInputs.cache
+C:\Users\YEN NHI\Downloads\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.exe
+C:\Users\YEN NHI\Downloads\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.pdb
+C:\Users\Windows 11\Documents\Zalo Received Files\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.exe.config
+C:\Users\Windows 11\Documents\Zalo Received Files\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.exe
+C:\Users\Windows 11\Documents\Zalo Received Files\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.pdb
+C:\Users\Windows 11\Documents\Zalo Received Files\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.AssemblyReference.cache
+C:\Users\Windows 11\Documents\Zalo Received Files\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.Form1.resources
+C:\Users\Windows 11\Documents\Zalo Received Files\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.Properties.Resources.resources
+C:\Users\Windows 11\Documents\Zalo Received Files\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.GenerateResource.cache
+C:\Users\Windows 11\Documents\Zalo Received Files\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Documents\Zalo Received Files\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.exe
+C:\Users\Windows 11\Documents\Zalo Received Files\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.pdb
+D:\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.exe.config
+D:\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.exe
+D:\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dinogame__alpha_.pdb
+D:\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.AssemblyReference.cache
+D:\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.Form1.resources
+D:\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.Properties.Resources.resources
+D:\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.GenerateResource.cache
+D:\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.csproj.CoreCompileInputs.cache
+D:\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.exe
+D:\done doi nen\done doi nen\doi nen nha\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dinogame__alpha_.pdb
