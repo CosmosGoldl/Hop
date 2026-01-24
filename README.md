@@ -1,2 +1,2 @@
 # Hop
-dinolook alike
+trying to make a silly simple game
